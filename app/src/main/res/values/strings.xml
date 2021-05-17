@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">covidtrak_Pro</string>
+    <string name="title_activity_main">covidtrak_Pro</string>
+    <string name="package_name">io.codingba.covidtrak</string>
+    <string name="custom_url_scheme">io.codingba.covidtrak</string>
+</resources>
